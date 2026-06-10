@@ -4,8 +4,6 @@
 This repository contains the CI/CD pipeline configuration used to automate build, test, and deployment processes.
 
 It helps in:
-testing in vscode
-harshitha from raptadu and she is living in us
 - Automating code integration
 - Running tests
 - Deploying applications efficiently
