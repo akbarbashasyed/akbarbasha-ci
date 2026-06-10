@@ -1,6 +1,6 @@
-# 🚀 akbarbasha-ci
+#  akbarbasha-ci
 
-## 📌 Overview
+##  Overview
 This repository contains the CI/CD pipeline configuration used to automate build, test, and deployment processes.
 
 It helps in:
